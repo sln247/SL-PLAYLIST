@@ -431,16 +431,20 @@ https://dplus.gammacdn.workers.dev/videos/99.m3u8
 https://j.pollllop.com/_v11/3c82efba465dd2d5e167903ac4fdb3b648a01869b42561c707069f5f15fb506514e91db502b41a01d4a297b8d9a78418a1653aa7f4c22e13a1e0dedf497176bed3351f49a35aa2ae3d4bbcf1461881cf6a8c3995fb429981426f7289442ec4e9ccb428e77daf2c0b0a05833d7531ec6ca855be2169479ab582490324d94f3602/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5ZDvBR/fighter-2024.jpg" group-title="HINDI MOVIE (ICC)",FIGHTER (2024)
 http://10.16.100.214/iccftps14/iccftps14sasd4/Movies/Hindi/Fighter%20(2024)%20720p%20WEBRip.mp4
-#EXTINF:-1 group-title="SULTAN SULAIMAN BANGLA",Sultan Suleiman | Episode 01
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Tbh2P9/tv-covers-593b0ab837f0ba89e8fa668036931766-goplay-sultan-suleiman-tv.webp" group-title="SULTAN SULAIMAN BANGLA",Sultan Suleiman | Episode 01
 https://wjx7kkxtly.gpcdn.net/transcoded/2022/08/10/965692/1/3/1835/manifest.m3u8?stime=20240414070037&etime=20240414071037&encoded=021b954ab3d0b4778cfff
-#EXTINF:-1 group-title="SULTAN SULAIMAN BANGLA",Sultan Suleiman | Episode 02
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Tbh2P9/tv-covers-593b0ab837f0ba89e8fa668036931766-goplay-sultan-suleiman-tv.webp" group-title="SULTAN SULAIMAN BANGLA",Sultan Suleiman | Episode 02
 https://wjx7kkxtly.gpcdn.net/transcoded/2022/08/10/965657/1/3/1835/manifest.m3u8?stime=20240414172132&etime=20240414173132&encoded=04aa696f453beb8148ef0
-#EXTINF:-1 group-title="SULTAN SULAIMAN BANGLA",Sultan Suleiman | Episode 03
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Tbh2P9/tv-covers-593b0ab837f0ba89e8fa668036931766-goplay-sultan-suleiman-tv.webp" group-title="SULTAN SULAIMAN BANGLA",Sultan Suleiman | Episode 03
 https://wjx7kkxtly.gpcdn.net/transcoded/2022/08/10/965688/1/3/1835/manifest.m3u8?stime=20240414172450&etime=20240414173450&encoded=02711d3c10730cc4b3cfa
-#EXTINF:-1 group-title="SULTAN SULAIMAN BANGLA",Sultan Suleiman | Episode 04
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Tbh2P9/tv-covers-593b0ab837f0ba89e8fa668036931766-goplay-sultan-suleiman-tv.webp" group-title="SULTAN SULAIMAN BANGLA",Sultan Suleiman | Episode 04
 https://wjx7kkxtly.gpcdn.net/transcoded/2022/08/10/965687/1/3/1835/manifest.m3u8?stime=20240414172544&etime=20240414173544&encoded=079768c22f5e1ac34bf64
-#EXTINF:-1 group-title="SULTAN SULAIMAN BANGLA",Sultan Suleiman | Episode 05
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Tbh2P9/tv-covers-593b0ab837f0ba89e8fa668036931766-goplay-sultan-suleiman-tv.webp" group-title="SULTAN SULAIMAN BANGLA",Sultan Suleiman | Episode 05
 https://wjx7kkxtly.gpcdn.net/transcoded/2022/08/11/965720/1/3/1835/manifest.m3u8?stime=20240414172659&etime=20240414173659&encoded=0165c129a590704d2139a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Tbh2P9/tv-covers-593b0ab837f0ba89e8fa668036931766-goplay-sultan-suleiman-tv.webp" group-title="SULTAN SULAIMAN BANGLA",Sultan Suleiman | Episode 06
+https://wjx7kkxtly.gpcdn.net/transcoded/2022/08/11/965717/1/3/1835/manifest.m3u8?stime=20240414173333&etime=20240414174333&encoded=06aedf20dd9e5ac070fca
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Tbh2P9/tv-covers-593b0ab837f0ba89e8fa668036931766-goplay-sultan-suleiman-tv.webp" group-title="SULTAN SULAIMAN BANGLA",Sultan Suleiman | Episode 07
+https://wjx7kkxtly.gpcdn.net/transcoded/2022/08/11/965733/1/3/1835/manifest.m3u8?stime=20240414173455&etime=20240414174455&encoded=0ecd2f01dc7f2453de5f1
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ibb.co/8XcQqT8/dirilis-ertugrul-season-01-2014-episodes-01-12.jpg" group-title="DIRILIS ERTUGRUL SEASON 01",Episode - 1
 http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E01.mkv
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.ibb.co/8XcQqT8/dirilis-ertugrul-season-01-2014-episodes-01-12.jpg" group-title="DIRILIS ERTUGRUL SEASON 01",Episode - 2
