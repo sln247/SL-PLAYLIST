@@ -368,13 +368,13 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="SPORTS",𝙻𝙸𝚅𝙴 06
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="KID'S",DISNEP JUNIOR
- http://103.174.195.4:8000/play/a00r
+http://103.174.195.4:8000/play/a00r
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/210px-Nickelodeon_Sonic_logo.png" group-title="KID'S",NICKLODEON SONIC
- http://103.174.195.4:8000/play/a00s
+http://103.174.195.4:8000/play/a00s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="KID'S",DISCOVERY KIDS
 http://103.174.195.4:8000/play/a00v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="KID'S",NICK JR
- http://103.174.195.4:8000/play/a00u
+http://103.174.195.4:8000/play/a00u
 #EXTINF:-1 group-title="ENGLISH",Animal Planet
 https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:-1 group-title="ENGLISH",Discovery
