@@ -3,11 +3,11 @@
 http://176.119.29.52/live/00:1A:79:50:31:74/B5888A04FEE6A/237.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.ibb.co/wQBdPZJ/unnamed.png" group-title="ISLAMIC",Peace TV ENG
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 group-title="ISLAMIC",ISLAM CHANNEL BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQv5KQc/islam-channel001-1.jpg" group-title="ISLAMIC",ISLAM CHANNEL BANGLA
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-#EXTINF:-1 group-title="ISLAMIC",DEEN TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DjdsNj/images-1.jpg" group-title="ISLAMIC",DEEN TV
 https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
-#EXTINF:-1 group-title="ISLAMIC",IQRA BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k92CXdW/Iqra-Logo-PNG-1.jpg" group-title="ISLAMIC",IQRA BANGLA
 https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1 group-title="ISLAMIC",MAKKAH TV
 
