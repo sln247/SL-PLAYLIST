@@ -270,7 +270,7 @@ http://103.174.195.4:8000/play/a00u
 #EXTINF:-1 group-title="ENGLISH",Animal Planet
 https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:-1 group-title="ENGLISH",Discovery
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+http://synzx.in/D/Discovery_Channel.m3u8
 #EXTINF:-1 group-title="ENGLISH",Discovery Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF:-1 group-title="ENGLISH",Discovery Turbo
