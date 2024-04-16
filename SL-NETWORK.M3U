@@ -267,9 +267,9 @@ http://103.174.195.4:8000/play/a00s
 http://103.174.195.4:8000/play/a00v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="KID'S",NICK JR
 http://103.174.195.4:8000/play/a00u
-#EXTINF:-1 group-title="ENGLISH",Animal Planet
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZdwtkNs/animal-planet-hd-world-logo.webp" group-title="ENGLISH",ANIMAL PLANET
 https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-#EXTINF:-1 group-title="ENGLISH",Discovery
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Discovery_logo_2021.svg/220px-Discovery_logo_2021.svg.png" group-title="ENGLISH",DISCOVERY HD
 http://synzx.in/D/Discovery_Channel.m3u8
 #EXTINF:-1 group-title="ENGLISH",Discovery Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
