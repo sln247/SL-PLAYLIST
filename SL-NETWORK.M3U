@@ -237,6 +237,8 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 http://tv.elaach.com/hls/5008.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T Sports HD
 https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p16w31X/unnamed-1.png" group-title="SPORTS",STARZ PLAY (CRICLIFE)
+http://xtv.ooo:8080/shahz18/18usman/371470
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ph8t6B3/sport-klub.png" group-title="SPORTS",SK 1 HD
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7269/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLQCGRn/sport-klub-2.png" group-title="SPORTS",SK 2 HD
@@ -254,6 +256,8 @@ http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7275/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dw135B8/SK8-RS-logo.webp" group-title="SPORTS",SK 8 HD
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7276/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRkMt9y/llp46r1571349127.png" group-title="SPORTS" audio-track="http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7277/index.m3u8",SK GOLF HD
+
+#EXTINF:-1 group-title="SPORTS",
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="KID'S",DISNEP JUNIOR
 http://103.174.195.4:8000/play/a00r
