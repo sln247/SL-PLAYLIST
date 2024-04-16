@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://ibb.co/8xNmfnz" group-title="ISLAMIC",Peace Tv Bangla
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ibb.co/wQBdPZJ/unnamed.png" group-title="ISLAMIC",Peace Tv Bangla
 http://176.119.29.52/live/00:1A:79:50:31:74/B5888A04FEE6A/237.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.ibb.co/wQBdPZJ/unnamed.png" group-title="ISLAMIC",Peace TV ENG
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
