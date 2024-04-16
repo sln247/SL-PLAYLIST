@@ -267,16 +267,16 @@ http://103.174.195.4:8000/play/a00s
 http://103.174.195.4:8000/play/a00v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="KID'S",NICK JR
 http://103.174.195.4:8000/play/a00u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZdwtkNs/animal-planet-hd-world-logo.webp" group-title="ENGLISH",ANIMAL PLANET
-https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#EXTINF:-1 group-title="KID'S",SPACETOON
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ENGLISH",Animal Planet HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Discovery_logo_2021.svg/220px-Discovery_logo_2021.svg.png" group-title="ENGLISH",DISCOVERY HD
 http://synzx.in/D/Discovery_Channel.m3u8
 #EXTINF:-1 group-title="ENGLISH",Discovery Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF:-1 group-title="ENGLISH",Discovery Turbo
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
-#EXTINF:-1 group-title="ENGLISH",SPACETOON
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ENGLISH",Travel XP HD(BD)
 http://b78e00fe.ottolok.net/iptv/ZFRMMY6UWRFLTT/9264/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",Xlpore English(BD)
@@ -307,10 +307,6 @@ http://195.26.87.217/live.ts?channelId=4236&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH",Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",Animal Planet HD
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 group-title="ENGLISH",Animal Planet HD
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Teri_Baaton_Mein_Aisa_Uljha_Jiya_film_poster.jpg/220px-Teri_Baaton_Mein_Aisa_Uljha_Jiya_film_poster.jpg" group-title="HINDI MOVIE (ICC)",Teri Baaton Mein Aisa Uljha Jiya
 https://j.pollllop.com/_v11/3c82efba465dd2d5e167903ac4fdb3b648a01869b42561c707069f5f15fb506514e91db502b41a01d4a297b8d9a78418a1653aa7f4c22e13a1e0dedf497176bed3351f49a35aa2ae3d4bbcf1461881cf6a8c3995fb429981426f7289442ec4e9ccb428e77daf2c0b0a05833d7531ec6ca855be2169479ab582490324d94f3602/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5ZDvBR/fighter-2024.jpg" group-title="HINDI MOVIE (ICC)",FIGHTER (2024)
