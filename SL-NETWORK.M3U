@@ -249,6 +249,12 @@ http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7272/index.m3u8
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7273/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60npJc0/SK-6.webp" group-title="SPORTS",SK 6 HD
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7274/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xm1Bz9d/SK7-RS-logo.webp" group-title="SPORTS",SK 7 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7275/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dw135B8/SK8-RS-logo.webp" group-title="SPORTS",SK 8 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7276/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sRkMt9y/llp46r1571349127.png" group-title="SPORTS" audio-track="http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7277/index.m3u8",SK GOLF HD
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="KID'S",DISNEP JUNIOR
 http://103.174.195.4:8000/play/a00r
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/210px-Nickelodeon_Sonic_logo.png" group-title="KID'S",NICKLODEON SONIC
