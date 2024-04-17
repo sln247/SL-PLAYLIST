@@ -276,7 +276,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ENGLISH",Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Discovery_logo_2021.svg/220px-Discovery_logo_2021.svg.png" group-title="ENGLISH",DISCOVERY HD
-http://synzx.in/D/Discovery_Channel.m3u8
+https://corsproxy.io/?https://starplay2.netlify.app/m3u%2Fdiscoverybengali.m3u8
 #EXTINF:-1 group-title="ENGLISH",Discovery Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF:-1 group-title="ENGLISH",Discovery Turbo
