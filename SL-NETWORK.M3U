@@ -232,7 +232,7 @@ http://100.100.100.14/st-9/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 1
 http://100.100.100.14/st-4/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 2
-http://103.151.60.214:7444/1101/video.m3u8
+http://tv.basnetbd.com:8080/roarzone/bk/102/index.m3u8?token=8100969bef5cfa12edb7b3ff557106457e48f9a6-9f4544691e335173a8a048e42a844fb7-1721004174-1720982574
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 3
 https://live-cdn.tsports.com/live-02/master_256.m3u8http://100.100.100.14/st-4/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 4
@@ -243,12 +243,12 @@ https://live-cdn.tsports.com/live-01/master_360.m3u8
 http://145.239.5.177:8080/567/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p16w31X/unnamed-1.png" group-title="SPORTS",STARZ PLAY (CRICLIFE)
 http://145.239.5.177:8080/567/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mX0LkqV/00.jpg" group-title="SPORTS",Copa America (LIVE 6)
+#EXTINF:-1 group-title="SPORTS",Copa America (LIVE 6)
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DLQCGRn/sport-klub-2.png" group-title="SPORTS",SK 2 HD
-http://109.233.89.166/TVP_Sport_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xDCybQn/Sportklub-3-HD.png" group-title="SPORTS",SK 3 HD
-http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",Sony LiV
+http://103.89.248.30:8082/1LIVE/index.fmp4.m3u8?token=7030e8c27912c916f59f5481e4a310f9540d2c4a-17597b28dda900e299e33a0c563a9293-1720993784-1720982984
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xDCybQn/Sportklub-3-HD.png" group-title="SPORTS",Willow HD
+http://103.89.248.14:8082/willow/index.m3u8?token=3f37104c85316b453f4a572df3e75341e3fcf091-f16c884e7287b82ddd423b197b5e7330-1720993708-1720982908
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yXQxKkG/Sportklub-4.webp" group-title="SPORTS",SK 4 HD
 http://9veyn1bt.otttv.pw/iptv/M9SZURBGLS597E/7343/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4KJYSYt/SK-5.webp" group-title="SPORTS",SK 5 HD
