@@ -88,7 +88,7 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/c/c1/%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%AC%E0%A7%81_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg/220px-%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%AC%E0%A7%81_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="BANGLA",Khusboo Bangla -2
 http://idvd.multitvsolution.com/idvo/khushboo_540p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/220px-Star_Jalsha_logo_2023.png" group-title="KOLKATA",STAR JALSHA HD
-http://10.77.218.14:8082/Zee-Bangla/index.fmp4.m3u8
+http://100.100.100.11/starjalsha/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/85/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="KOLKATA",JALSHA MOVIES
 http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/200px-Zee_Bangla_logo.png" group-title="KOLKATA",Zee Bangla
@@ -228,23 +228,23 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 group-title="HINDI",Ayush TV
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS",GAZI TV
-http://100.100.100.14/st-9/index.fmp4.m3u8
+http://100.100.100.11/gtv/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 1
-http://100.100.100.14/st-4/index.fmp4.m3u8
+http://100.100.100.11/tsportsbn/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 2
-http://tv.basnetbd.com:8080/roarzone/bk/102/index.m3u8?token=8100969bef5cfa12edb7b3ff557106457e48f9a6-9f4544691e335173a8a048e42a844fb7-1721004174-1720982574
+http://100.100.100.11/tsportshd/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 3
-https://live-cdn.tsports.com/live-02/master_256.m3u8http://100.100.100.14/st-4/tracks-a1/index.fmp4.m3u8
+http://100.100.100.11/tsports/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 4
-https://live-cdn.tsports.com/live-02/master_640.m3u8
+http://100.100.100.11/sports18/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 5
-https://live-cdn.tsports.com/live-01/master_360.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p16w31X/unnamed-1.png" group-title="SPORTS",STARZ PLAY (CRICLIFE)
+http://100.100.100.11/tsportsfhd/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p16w31X/unnamed-1.png" group-title="SPORTS",STAR SPORTS-1
 http://145.239.5.177:8080/567/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p16w31X/unnamed-1.png" group-title="SPORTS",STARZ PLAY (CRICLIFE)
 http://145.239.5.177:8080/567/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Copa America (LIVE 6)
-https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+#EXTINF:-1 group-title="SPORTS",TEN -5
+http://100.100.100.11/ten5/video.m3u8
 #EXTINF:-1 group-title="SPORTS",Sony LiV
 http://103.89.248.30:8082/1LIVE/index.fmp4.m3u8?token=7030e8c27912c916f59f5481e4a310f9540d2c4a-17597b28dda900e299e33a0c563a9293-1720993784-1720982984
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xDCybQn/Sportklub-3-HD.png" group-title="SPORTS",Willow HD
