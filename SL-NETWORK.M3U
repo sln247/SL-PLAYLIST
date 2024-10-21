@@ -11,8 +11,8 @@ https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1 group-title="ISLAMIC",MAKKAH TV
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/BTV_World_Logo.png/220px-BTV_World_Logo.png" group-title="BANGLA",BTV WORLD
-http://sansat.net:88/nvuCkVRM77/2MqtfAk7upwmfma/100658
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/220px-Bangladesh_Television_Logo.svg.png" group-title="BANGLA",BTV 
+http://100.100.100.12/btv/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/220px-Sangsad_Television_Emblem.svg.png" group-title="BANGLA",SANGSAD TV
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" group-title="BANGLA",INDEPENDENT TV
@@ -236,7 +236,7 @@ http://100.100.100.11/tsportshd/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 3
 http://100.100.100.11/tsports/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 4
-http://100.100.100.11/sports18/video.m3u8
+http://100.100.100.12/tsports/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 5
 http://100.100.100.11/tsportsfhd/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p16w31X/unnamed-1.png" group-title="SPORTS",STAR SPORTS-1
