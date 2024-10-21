@@ -24,7 +24,7 @@ http://100.100.100.12/jamunatv/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" group-title="BANGLA",EKATTOR TV
 http://100.100.100.12/ekattor/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/250px-DBC_News_Logo.svg.png" group-title="BANGLA",DBC NEWS
-http://cdn01.palki.tv:80/live/DBC-M/index.m3u8
+http://100.100.100.12/dbcnews/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/200px-Channel24logo.svg.png" group-title="BANGLA",CHANNEL 24
 http://100.100.100.12/channel24/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="BANGLA",NEWS 24
@@ -56,7 +56,7 @@ http://100.100.100.12/ekusheytv/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BANGLA",SA TV
 http://100.100.100.12/satv/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/200px-Mohona_tv_Logo.svg.png" group-title="BANGLA",MOHONA TV
-http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+http://100.100.100.12/mohonatv/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/200px-Channel9_bd.svg.png" group-title="BANGLA",CHANNEL 9
 http://100.100.100.12/channel9/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/150px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="BANGLA",NAGORIK TV
@@ -81,6 +81,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 http://100.100.100.12/ekhon/video.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikialpha.org/mediawiki/images/d/de/TBN24.png" group-title="BANGLA",TBN 24 USA
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Ananda_TV_Logo.png/220px-Ananda_TV_Logo.png" group-title="BANGLA",ANANDA TV
+http://100.100.100.12/anandatv/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G2bjkwz/images.jpg" group-title="BANGLA",BISWA BANGLA HD
 http://176.119.29.52/live.ts?channelId=90253&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png/200px-%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="BANGLA",GAAN BANGLA
