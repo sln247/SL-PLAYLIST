@@ -94,17 +94,19 @@ http://idvd.multitvsolution.com/idvo/khushboo_540p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/220px-Star_Jalsha_logo_2023.png" group-title="KOLKATA",STAR JALSHA HD
 http://100.100.100.11/starjalsha/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/85/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="KOLKATA",JALSHA MOVIES
-http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
+http://100.100.100.14/jalshamovies/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/200px-Zee_Bangla_logo.png" group-title="KOLKATA",Zee Bangla
-http://10.77.218.14:8082/Zee-Bangla/index.fmp4.m3u8
+http://100.100.100.14/zeebangla/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/220px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="KOLKATA",Zee Bangla Cinema
-https://otttv.co.in/dishtv/playlist.m3u8?chunks=79251d477e5327899e259f5135cc31fb6d0e404be386bb85243d3ceb4988cfde972a9a887cbda470c6b90a7088be8c1481349c292747327692e69a067c77b5c3226c59bdfec989196d1cafeb5a93466e2f45c647e6c0473a6d84f9759236b9fccda8f2a3627d326a9de2ab4e87502d60e457885c00e8d5e087371027ae87fb17d2e74216b6d50d257d4d176ea81bf9a8&vtoken=
+http://100.100.100.14/zeebanglacinema/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/170px-Colors_Bangla.png" group-title="KOLKATA",Colors Bangla(Yupp TV)
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/170px-Colors_Bangla.png" group-title="KOLKATA",COLORS BANGLA HD
 https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="KOLKATA",ENTERR 10
-http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
+http://100.100.100.14/enterr10bangla/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sun_Bangla.png/170px-Sun_Bangla.png" group-title="KOLKATA",SUN BANGLA
+http://100.100.100.14/sunbangla/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="KOLKATA",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="KOLKATA",Enterr 10
@@ -170,9 +172,9 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 #EXTINF:-1 group-title="HINDI",SHEEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="HINDI",SONY ENTERTAINMENT TELEVISION HD
-https://mhdtvweb.com/sony/watch.php?chunks=0f11485cedb7bd4d50dc0c64d994d84a70416d3d08bcf9e120ea4a33e5168ab65b50def24e32d481d493d6ffe886ac9fb4775176a3e8fe5b953af829d85de6a8f7fe73085c204fc3e88c718c3bf5fe16f3d6ef5d7d7f15237d246f0148c4872f27e865500999aaea4cf3dae58cb234bb98a8011ec85b1a91a2535709e9acd8d6b5e9faf666b65f6e71044a92c2b8186897d97584f84954f39184239cfbb62ee1eed7f8cea44d34cc2fdc19aea32b3db5db3e9d001e1f5f3aea087543c4741fa4e2e679e2d171326a55074b023cc2d946bcf9ae1fdab484f598cefc5fbc76820b947fb5f70452262bacbed455d3945fcb40f6bf0ef7771ce43e57f740ae27ea67863f28ee0fba564b938190af8250a0bbdd76c7b05bd2beefb10614e25cf7acb88f5732a3b42630df7d25a6b63f2ec1b43b4817ce055a4618f80100f8d811a3668e8035591c67c2394b5d0f6bf60f1885040d4b16d1b916c98f14d7f36ee12b63
+http://100.100.100.14/sonyhd/video.m3u8
 #EXTINF:-1 group-title="HINDI",SONY MAX HD
-https://mhdtvweb.com/sony/watch.php?chunks=0f11485cedb7bd4d50dc0c64d994d84a70416d3d08bcf9e120ea4a33e5168ab6d8fbd1a833824c05a53a344289d53870f1a25fc95709a04f7c7a76ff86aeb5ec3bd50f29fcddf803b3e45533e466aa04ab7c8d4ed7175f48a48dc55b6e9fe45c201e015e4b6e6028da8370cc1612c9f71f8a8b2796f99a27ba66698d066aa91cd03c4ef1fc56072d68b843348f470894fab8b353f4707dedef913679bf1a8a4b68479801613578fac8d84ea4165ab813b1cc3fc0aeaa0dfbcfb49de171888932d62d493e2d15d2317f1d1a1f95e8dae805930fa99af5b6c897b81422b608f2580f1641b77e1d30fd9120084e229793bd581016c2ccb33d711ec106115583a1739de96d4bdda1a83857f7af69ca629693314ff52bb1e4964e99be808bc42f0dc5cdfcdbcb6db5f3019f101bcc66e91afa4de665bac2cf1088c56a6b9a3956bb6ac217bf0cb03db79b0d4f54b72ff618d5797600531751acc210baaa1c05b8ecf0d454c62285a780438515d61401d2b54c
+http://100.100.100.14/sonymaxhd/video.m3u8
 #EXTINF:-1 group-title="HINDI",SONY PAL
 http://195.26.87.217/live.ts?channelId=188&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="HINDI",SONY PIX HD
@@ -195,6 +197,8 @@ https://edge2.laotv.la/live/StarMovie/index.m3u8
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="HINDI",Ustsav Plus HD(BD)
 http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="HINDI",Zee cinema
+http://100.100.100.14/zeecinema/video.m3u8
 #EXTINF:-1 group-title="HINDI",Zee News
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
 #EXTINF:-1 group-title="HINDI",Zee India
@@ -215,10 +219,6 @@ http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
 #EXTINF:-1 group-title="HINDI",Sony max
 http://170.254.18.107/SONYMAX/index.m3u8
-#EXTINF:-1 group-title="HINDI",Zee Bangla Cinema
-http://176.119.29.52/live.ts?channelId=119&uid=5060&deviceMac=00:1A:79:73:9C:A1
-#EXTINF:-1 group-title="HINDI",Zee•cinema
-http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1 group-title="HINDI",Zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 group-title="HINDI",9XM
@@ -243,6 +243,10 @@ http://100.100.100.11/tsportsfhd/video.m3u8
 http://100.100.100.11/startsports1hd/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p16w31X/unnamed-1.png" group-title="SPORTS",STARZ PLAY (CRICLIFE)
 http://100.100.100.12/asports/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/240px-BeIN_Sports_logo_%282017%29.png" group-title="SPORTS",BEIN SPORTS
+http://100.100.100.14/bein1/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/150px-A_Sports_Logo.png" group-title="SPORTS",A SPORTS
+http://100.100.100.14/asports/video.m3u8
 #EXTINF:-1 group-title="SPORTS",TEN -5
 http://100.100.100.11/ten5/video.m3u8
 #EXTINF:-1 group-title="SPORTS",Sony LiV
@@ -280,7 +284,7 @@ http://100.100.100.12/kidscreation/video.m3u8
 #EXTINF:-1 group-title="ENGLISH",Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Discovery_logo_2021.svg/220px-Discovery_logo_2021.svg.png" group-title="ENGLISH",DISCOVERY HD
-https://mhdmaxtv.com/delta/discovery/api/Discovery_Bangla.m3u8
+http://100.100.100.14/discovery/video.m3u8
 #EXTINF:-1 group-title="ENGLISH",Discovery Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF:-1 group-title="ENGLISH",Discovery Turbo
@@ -310,7 +314,7 @@ https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF:-1 group-title="ENGLISH",Discovery Turbo
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 #EXTINF:-1 group-title="ENGLISH",NATIONAL GEOGRAPHIC
-http://195.26.87.217/live.ts?channelId=4236&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://100.100.100.14/nationalgeographic/video.m3u8
 #EXTINF:-1 group-title="ENGLISH",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH",Al Jazeera English
