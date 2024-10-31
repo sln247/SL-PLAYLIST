@@ -75,14 +75,14 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Nexus_Television_Logo.png/250px-Nexus_Television_Logo.png" group-title="BANGLA",NEXUS TV
 http://100.100.100.12/nexustelevision/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Global_Television_Bangladesh_Logo_2.png/200px-Global_Television_Bangladesh_Logo_2.png" group-title="BANGLA",GLOBAL TV
-http://100.100.100.12/globaltelevision/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mhMBWXN/channels4-profile.jpg" group-title="BANGLA",ME TV
+https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lk3thDH/moviebanglatv-logo.png" group-title="BANGLA",MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/220px-Ekhon_Logo.png" group-title="BANGLA",EKHON TV
-http://100.100.100.12/ekhon/video.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikialpha.org/mediawiki/images/d/de/TBN24.png" group-title="BANGLA",TBN 24 USA
-https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
+https://youtu.be/_BXYvp0fZ2A
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G3HDc2W/rajdhani.jpg" group-title="BANGLA",RAJDHANI TV
+https://cdn.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Ananda_TV_Logo.png/220px-Ananda_TV_Logo.png" group-title="BANGLA",ANANDA TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G2bjkwz/images.jpg" group-title="BANGLA",BISWA BANGLA HD
