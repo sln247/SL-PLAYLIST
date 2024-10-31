@@ -127,26 +127,46 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 https://ythls.armelin.one/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLZqWzj/Banglajago-TV-logo-29.webp" group-title="KOLKATA",BANGLA JAGO
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-#EXTINF:-1 group-title="HINDI",9x Jalwa
-http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
-#EXTINF:-1 group-title="HINDI",9X JHAKAAS
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-#EXTINF:-1 group-title="HINDI",9x Tashan
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-#EXTINF:-1 group-title="HINDI",9X TASHAN
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-#EXTINF:-1 group-title="HINDI",9XM
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
-#EXTINF:-1 group-title="HINDI",AB MASTIII
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="HINDI",SONY MAX HD
+http://100.100.100.14/sonymaxhd/video.m3u8
+#EXTINF:-1 group-title="HINDI",SONY PAL
+http://195.26.87.217/live.ts?channelId=188&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="HINDI",SONY PIX HD
+http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="HINDI",SONY SAB
+http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="HINDI",SONY SAB HD
+http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="HINDI",SONY WAH
+http://195.26.87.217/live.ts?channelId=187&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="HINDI",B4U Movies IN(BD)
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="HINDI",BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+#EXTINF:-1 group-title="HINDI",Star India
+http://103.120.172.74:1060
+#EXTINF:-1 group-title="HINDI",Star Movies
+https://edge2.laotv.la/live/StarMovie/index.m3u8
+#EXTINF:-1 group-title="HINDI",STAR PLUS HD
+http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="HINDI",Ustsav Plus HD(BD)
+http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="HINDI",Zee cinema
+http://100.100.100.14/zeecinema/video.m3u8
 #EXTINF:-1 group-title="HINDI",Bollywood Classic(BD)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 group-title="HINDI",Zee India
+http://103.120.172.74:1040
+#EXTINF:-1 group-title="HINDI",Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 group-title="HINDI",Bollywood HD (BD)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+#EXTINF:-1 group-title="HINDI",Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 group-title="HINDI",Colors tv
+http://170.254.18.107/COLORS/index.m3u8
+#EXTINF:-1 group-title="HINDI",DUNKI MOVIE
+https://worker-wild-lab-a48a.assadikb.workers.dev/0:/Dunki.2023.720p.Hindi.WEB-DL%20ottbangla.shop.mkv
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1 group-title="HINDI",COLORS CINEPLEX HD
@@ -167,46 +187,14 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="HINDI",SONY ENTERTAINMENT TELEVISION HD
 http://100.100.100.14/sonyhd/video.m3u8
-#EXTINF:-1 group-title="HINDI",SONY MAX HD
-http://100.100.100.14/sonymaxhd/video.m3u8
-#EXTINF:-1 group-title="HINDI",SONY PAL
-http://195.26.87.217/live.ts?channelId=188&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="HINDI",SONY PIX HD
-http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="HINDI",SONY SAB
-http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="HINDI",SONY SAB HD
-http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="HINDI",SONY WAH
-http://195.26.87.217/live.ts?channelId=187&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="HINDI",Star Bharat HD(BD)
 http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="HINDI",Star Bharat(BD)
 http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="HINDI",Star India
-http://103.120.172.74:1060
-#EXTINF:-1 group-title="HINDI",Star Movies
-https://edge2.laotv.la/live/StarMovie/index.m3u8
-#EXTINF:-1 group-title="HINDI",STAR PLUS HD
-http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="HINDI",Ustsav Plus HD(BD)
-http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="HINDI",Zee cinema
-http://100.100.100.14/zeecinema/video.m3u8
 #EXTINF:-1 group-title="HINDI",Zee News
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
-#EXTINF:-1 group-title="HINDI",Zee India
-http://103.120.172.74:1040
-#EXTINF:-1 group-title="HINDI",Balle Balle
-https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 group-title="HINDI",Aaj Tak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="HINDI",Bollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 group-title="HINDI",Colors tv
-http://170.254.18.107/COLORS/index.m3u8
-#EXTINF:-1 group-title="HINDI",DUNKI MOVIE
-https://worker-wild-lab-a48a.assadikb.workers.dev/0:/Dunki.2023.720p.Hindi.WEB-DL%20ottbangla.shop.mkv
 #EXTINF:-1 group-title="HINDI",Hungama TV
 http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 #EXTINF:-1 group-title="HINDI",MTV BEETS
@@ -221,6 +209,18 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 group-title="HINDI",Ayush TV
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 group-title="HINDI",9x Jalwa
+http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
+#EXTINF:-1 group-title="HINDI",9X JHAKAAS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+#EXTINF:-1 group-title="HINDI",9x Tashan
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+#EXTINF:-1 group-title="HINDI",9X TASHAN
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+#EXTINF:-1 group-title="HINDI",9XM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+#EXTINF:-1 group-title="HINDI",AB MASTIII
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS",GAZI TV
 http://100.100.100.11/gtv/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 1
