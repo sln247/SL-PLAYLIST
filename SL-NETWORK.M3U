@@ -11,6 +11,8 @@ https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1 group-title="ISLAMIC",MAKKAH LIVE
 http://100.100.100.12/qurantv/video.m3u8
+#EXTINF:-1 tvg-logo="https://ibb.co.com/HBLFQqH" group-title="ISLAMIC",Kids Creation
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/220px-Bangladesh_Television_Logo.svg.png" group-title="BANGLA",BTV 
 http://100.100.100.12/btv/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/220px-Sangsad_Television_Emblem.svg.png" group-title="BANGLA",SANGSAD TV
