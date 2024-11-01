@@ -80,7 +80,7 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lk3thDH/moviebanglatv-logo.png" group-title="BANGLA",MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/220px-Ekhon_Logo.png" group-title="BANGLA",EKHON TV
-https://www.youtube.com/watch?v=_BXYvp0fZ2A&ab_channel=EKHONTV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730441019/ei/2xokZ_nSAdaejuMP8NDz6Ac/ip/2001%3Adf1%3Ae340%3A2000%3A0%3A0%3A0%3A2/id/_BXYvp0fZ2A.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/qtApAbnpejTNoSMzvIS8r6MuNnJ32dYEqAwYwUoUc6soI1y71um5APsMfBCSUmrPkMixs5rNaCpX/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326337%2C51326932%2C51331021/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgP5D-1uZoTLbWYUtVADpaxiQnlEFszb9aBwex4QsJ2HoCIAmcVjDv0OyMWEgoBwFjpgTDYBxctDrzF8gl_cTowQcI/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G3HDc2W/rajdhani.jpg" group-title="BANGLA",RAJDHANI TV
 https://cdn.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Ananda_TV_Logo.png/220px-Ananda_TV_Logo.png" group-title="BANGLA",ANANDA TV
