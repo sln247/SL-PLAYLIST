@@ -92,13 +92,13 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/220px-Star_Jalsha_logo_2023.png" group-title="KOLKATA",STAR JALSHA
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/85/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="KOLKATA",JALSHA MOVIES
-http://100.100.100.14/jalshamovies/video.m3u8
+http://10.99.99.99:8080/roarzone/bk/31/index.m3u8?token=6ec36abca5cf758d8e68bb4a87a5bd25aade8e82-8c9158f1a1a1f55c8a18cc4eb471faf2-1730442767-1730421167
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/200px-Zee_Bangla_logo.png" group-title="KOLKATA",Zee Bangla
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=nxdrGLYnsu_q6Gtkb8Om6A&expires=1730476735&user=98fbbc7885a9470e920abab5d870f7c3
+http://10.99.99.99:8080/roarzone/bk/34/index.m3u8?token=c8e59baa2bfc2b1641a55b090dd4e6ab0e87a80f-9bec04ac0c0bab158f2c2f7dc894a3b7-1730442737-1730421137
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/220px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="KOLKATA",Zee Bangla Cinema
-http://100.100.100.14/zeebanglacinema/video.m3u8
+http://10.99.99.99:8080/roarzone/bk/29/index.m3u8?token=8e9541be0b5ef14dd4a3d67c2b29d7fcfb9c2992-d2cc2a5e7a23ed4e1c24deb18eeca5f9-1730442797-1730421197
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/170px-Colors_Bangla.png" group-title="KOLKATA" audio-track="https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",COLORS BANGLA
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=nxdrGLYnsu_q6Gtkb8Om6A&expires=1730476735&user=98fbbc7885a9470e920abab5d870f7c3
+http://10.99.99.99:8080/roarzone/bk/66/tracks-v1a1/mono.m3u8?token=b6feaa275abd27b6449c7876e5a083d8223d4395-c75efb3306e84247c6676f1dcc6c59f4-1730442708-1730421108
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="KOLKATA" audio-track="https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",ENTERR 10 BANGLA
 http://100.100.100.14/enterr10bangla/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sun_Bangla.png/170px-Sun_Bangla.png" group-title="KOLKATA",SUN BANGLA
