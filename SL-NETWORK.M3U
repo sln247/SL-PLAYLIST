@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ibb.co/rp13jMs/Peace-TV-Bangla-logo-2015.webp" group-title="ISLAMIC",Peace Tv Bangla
-http://100.100.100.12/peacetvbangla/video.m3u8
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/playlist.m3u8?sid=lbg0t782W0ql_9HzdZnFBw
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.ibb.co/wQBdPZJ/unnamed.png" group-title="ISLAMIC",Peace TV ENG
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQv5KQc/islam-channel001-1.jpg" group-title="ISLAMIC",ISLAM CHANNEL BANGLA
@@ -10,7 +10,7 @@ https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k92CXdW/Iqra-Logo-PNG-1.jpg" group-title="ISLAMIC",IQRA BANGLA
 https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1 group-title="ISLAMIC",MAKKAH LIVE
-http://100.100.100.12/qurantv/video.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LYDkf1Z/Kids-Creation-Logo-1.png" group-title="ISLAMIC",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/220px-Bangladesh_Television_Logo.svg.png" group-title="BANGLA",BTV 
@@ -85,8 +85,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730441019/ei/2
 https://cdn.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Ananda_TV_Logo.png/220px-Ananda_TV_Logo.png" group-title="BANGLA",ANANDA TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G2bjkwz/images.jpg" group-title="BANGLA",BISWA BANGLA HD
-https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G0vDY9P/2024-05-14a-n17156821814310.png" group-title="BANGLA",CHANNEL S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png/200px-%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="BANGLA",GAAN BANGLA
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/220px-Star_Jalsha_logo_2023.png" group-title="KOLKATA",STAR JALSHA
