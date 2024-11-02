@@ -222,14 +222,14 @@ http://10.77.218.14:8082/gazi_tv/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 1
 http://100.100.100.11/tsportsbn/video.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 2
-http://100.100.100.11/tsportshd/video.m3u8
+http://100.100.100.10/hls/tv5.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 3
-http://100.100.100.11/tsports/video.m3u8
+http://100.100.100.11/tsportsbn/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 4
 http://100.100.100.12/tsports/video.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 5
 http://100.100.100.11/tsportsfhd/video.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.ibb.co/p16w31X/unnamed-1.png" group-title="SPORTS",STAR SPORTS-1
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.ibb.co/p16w31X/unnamed-1.png" group-title="SPORTS",STAR SPORTS 1
 http://100.100.100.11/startsports1hd/video.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://i.ibb.co/p16w31X/unnamed-1.png" group-title="SPORTS",STARZ PLAY (CRICLIFE)
 http://100.100.100.12/asports/video.m3u8
@@ -247,8 +247,8 @@ http://103.89.248.14:8082/willow/index.m3u8?token=3f37104c85316b453f4a572df3e753
 http://10.77.218.14:8082/ptv_sports_hd/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://i.ibb.co.com/StbBMtV/SONY-Sports-Ten1-HD-Logo-CLR.png" group-title="SPORTS",SONY SPORTS 1
 http://10.77.218.14:8082/Star-sport-2/index.fmp4.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://i.ibb.co/60npJc0/SK-6.webp" group-title="SPORTS",SK 6 HD
-http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7274/index.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/1920px-Eurosport_logo_%282001-2011%29.svg.png" group-title="SPORTS",EURO SPORTS
+http://100.100.100.14/eurosport/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://i.ibb.co/xm1Bz9d/SK7-RS-logo.webp" group-title="SPORTS",SK 7 HD
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7275/index.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://i.ibb.co/Dw135B8/SK8-RS-logo.webp" group-title="SPORTS",SK 8 HD
