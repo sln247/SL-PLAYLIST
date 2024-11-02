@@ -229,7 +229,7 @@ http://100.100.100.11/tsportsbn/index.fmp4.m3u8
 http://100.100.100.12/tsports/video.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 5
 http://100.100.100.11/tsportsfhd/video.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.ibb.co/p16w31X/unnamed-1.png" group-title="SPORTS",STAR SPORTS 1
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/6c/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8_%E0%A7%A7_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="SPORTS",STAR SPORTS 1
 http://100.100.100.11/starsports1/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://i.ibb.co/p16w31X/unnamed-1.png" group-title="SPORTS",STARZ PLAY (CRICLIFE)
 http://100.100.100.12/asports/video.m3u8
