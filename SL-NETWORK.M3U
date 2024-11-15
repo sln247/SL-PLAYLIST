@@ -48,7 +48,7 @@ http://10.99.99.99:8080/roarzone/bk/61/index.m3u8?token=e44b0d36130fbad14f386520
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/100px-Asian_TV_Logo.svg.png" group-title="BANGLA",ASIAN TV
 http://10.77.218.14:8082/asian_tv/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLA",MAASRANGA TV
-https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=4ojwZ3TxWk55jcKWDY1uoQ&expires=1730599322&user=98fbbc7885a9470e920abab5d870f7c3
+http://10.99.99.99:8080/roarzone/bk/51/index.m3u8?token=58a926d95425bdf0c0910901f169fd2b30b05cba-e1f3c981df7329d62aba7c89946af712-1731656270-1731634670
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Mytv_Bangladesh_Logo.png/260px-Mytv_Bangladesh_Logo.png" group-title="BANGLA",MY TV
 http://100.100.100.12/mytv/video.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/DeshTV2022Logo.svg/220px-DeshTV2022Logo.svg.png" group-title="BANGLA",DESH TV
@@ -68,7 +68,7 @@ http://10.77.218.14:8082/gazi_tv/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="BANGLA",DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=3574168
 #EXTINF:-1 tvg-chno="28" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BANGLA",DURONTO TV
-http://192.168.244.2:8081/roarzone/bk/10/index.m3u8?token=4697fec3f96ad6cacc4a62fbe31a0c512df7de0a-e358f4e1219207ce547ab11d4553b070-1730427282-1730416482&remote=192.168.29.2
+http://10.99.99.99:8080/roarzone/bk/10/index.m3u8?token=c00a3d65c059107993475be909509a66e8833273-e745987096e02806c2acd66e5e3bd9af-1731656297-1731634697
 #EXTINF:-1 tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/180px-BIJOY_TV_Logo_BD.png" group-title="BANGLA",BIJOY TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Green_TV_Logo.png/250px-Green_TV_Logo.png" group-title="BANGLA",GREEN BANGLA
