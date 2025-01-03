@@ -216,19 +216,19 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 tvg-chno="47" group-title="HINDI",AB MASTIII
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS",GAZI TV
-http://10.77.218.14:8082/gazi_tv/index.fmp4.m3u8
+http://172.20.2.5:8082/GTV/index.m3u8?token=63b8dc01a2b3425e70317ceae1d029eba441d84d-61f329ddcf593fef1f273eb133ad3e36-1735893146-1735882346
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 1
 http://172.17.50.112/live/antbd1002/index.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 2
-http://100.100.100.10/hls/tv5.m3u8
+http://172.20.2.5:8082/T-SPORTS/index.m3u8?token=eaaa0ccd2e7dfffdfa072125008dbc3f6b4da2da-5fc1de7a97a02fc9e883d30eeddab528-1735892910-1735882110
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 3
-http://10.77.218.14:8082/tsports_hd/index.fmp4.m3u8
+http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8?token=c0360c75d92d9fcc0d0a14288a17a359a1bfc986-a7adcc6f83decdc8fa397595f08fc0fd-1735893263-1735882463
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 4
 http://100.100.100.11/tsports/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 5
 http://100.100.100.11/tsportsfhd/video.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/6c/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8_%E0%A7%A7_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="SPORTS",STAR SPORTS 1
-http://100.100.100.11/starsports1/index.fmp4.m3u8
+http://172.20.2.5:8082/STAR-SPORTS-1/index.m3u8?token=c7e0ec7f769458a91ed80fe2fe418db2377a2043-e0e376008141a1f223ac4201cd1d1863-1735893200-1735882400
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://i.ibb.co/p16w31X/unnamed-1.png" group-title="SPORTS",STARZ PLAY (CRICLIFE)
 http://100.100.100.12/asports/video.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/240px-BeIN_Sports_logo_%282017%29.png" group-title="SPORTS",BEIN SPORTS
