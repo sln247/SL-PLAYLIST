@@ -90,7 +90,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-chno="38" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png/200px-%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="BANGLA",GAAN BANGLA
 http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/220px-Star_Jalsha_logo_2023.png" group-title="KOLKATA",STAR JALSHA
-http://10.77.218.14:8082/STAR-JALSHA/index.fmp4.m3u8
+http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/85/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="KOLKATA",JALSHA MOVIES
 http://100.100.100.13/jalshamovies/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/200px-Zee_Bangla_logo.png" group-title="KOLKATA",Zee Bangla
@@ -224,7 +224,7 @@ http://172.20.2.5:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=0fcb5673def4ec07bd14
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 3
 http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8?token=c0360c75d92d9fcc0d0a14288a17a359a1bfc986-a7adcc6f83decdc8fa397595f08fc0fd-1735893263-1735882463
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 4
-http://100.100.100.11/tsports/index.fmp4.m3u8
+http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 5
 http://172.20.2.5:8082/GTV/tracks-v1a1/mono.m3u8?token=cd791b80f0b8ef04aa796311fe0ffd4f34d96950-2b366a6f84680c9c6808283448dc87d1-1735952412-1735941612
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/6c/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8_%E0%A7%A7_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="SPORTS",STAR SPORTS 1
@@ -240,13 +240,13 @@ http://100.100.100.11/ten5/video.m3u8
 #EXTINF:-1 tvg-chno="12" group-title="SPORTS",Sony LiV
 http://103.89.248.30:8082/1LIVE/index.fmp4.m3u8?token=7030e8c27912c916f59f5481e4a310f9540d2c4a-17597b28dda900e299e33a0c563a9293-1720993784-1720982984
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://i.ibb.co/xDCybQn/Sportklub-3-HD.png" group-title="SPORTS",Willow HD
-http://103.89.248.14:8082/willow/index.m3u8?token=3f37104c85316b453f4a572df3e75341e3fcf091-f16c884e7287b82ddd423b197b5e7330-1720993708-1720982908
+https://off6.jismhaitokia.com:999/hls/willowusa.m3u8?md5=kJOv2xW3Q1rTTt8RIn9L9g&expires=1735950508
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" group-title="SPORTS",PTV Sports
 https://crichd.iptvbd.xyz/m3u8.php/ptvpk.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://i.ibb.co.com/StbBMtV/SONY-Sports-Ten1-HD-Logo-CLR.png" group-title="SPORTS",SONY SPORTS 1
 http://172.20.2.5:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8?token=82b17a97d697acb209833aec7c0c2d9a611f3404-854b7bb0d485a7b8fbbb2211f30fa753-1735952496-1735941696
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/1920px-Eurosport_logo_%282001-2011%29.svg.png" group-title="SPORTS",EURO SPORTS
-http://100.100.100.14/eurosport/index.fmp4.m3u8
+https://d1.jisdeshmaiganga.com:999/hls/eurosp1.m3u8?md5=KbXzC-z-9921Vv7BYwBzOg&expires=1735950608
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://i.ibb.co/xm1Bz9d/SK7-RS-logo.webp" group-title="SPORTS",SK 7 HD
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7275/index.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://i.ibb.co/Dw135B8/SK8-RS-logo.webp" group-title="SPORTS",SK 8 HD
