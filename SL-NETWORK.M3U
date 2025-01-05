@@ -94,7 +94,7 @@ http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/85/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="KOLKATA",JALSHA MOVIES
 http://100.100.100.13/jalshamovies/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/200px-Zee_Bangla_logo.png" group-title="KOLKATA",Zee Bangla
-http://10.77.218.14:8082/zee_bangla/index.fmp4.m3u8
+http://103.77.218.230/zee_bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/220px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="KOLKATA",Zee Bangla Cinema
 http://10.77.218.14:8082/zee_bangla/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/170px-Colors_Bangla.png" group-title="KOLKATA" audio-track="https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",COLORS BANGLA
@@ -218,7 +218,7 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS",GAZI TV
 http://172.20.2.5:8082/GTV/index.m3u8?token=63b8dc01a2b3425e70317ceae1d029eba441d84d-61f329ddcf593fef1f273eb133ad3e36-1735893146-1735882346
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 1
-http://172.17.50.112/live/antbd1002/index.m3u8
+http://103.77.218.230/tsports_hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 2
 http://172.20.2.5:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=0fcb5673def4ec07bd149f9b5978e387241fdade-e1be450b72c2d738a615b23b6dc39262-1735952363-1735941563
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 3
