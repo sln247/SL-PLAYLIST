@@ -40,15 +40,15 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png" group-title="BANGLA",CHANNEL i
 http://172.20.2.5:8082/CHANNEL-I/index.m3u8?token=a4f7c031a6cee1e123722e19746db959206ac809-422255f54581b889382fb1dd4316c057-1736090022-1736079222
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/240px-Rtv_bangladesh.svg.png" group-title="BANGLA",RTV
-http://100.100.100.12/rtv/index.fmp4.m3u8
+http://172.20.2.5:8082/RTV/index.m3u8?token=b4e129e426a3ce03ef65091b119c04bbe6113edf-d8d37bc2809c0af81d22a4eef00ec156-1736090125-1736079325
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/120px-Banglavision.svg.png" group-title="BANGLA",BANGLAVISION
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/1f/%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A7%80_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/150px-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A7%80_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BANGLA",BOISHAKHI TV
-http://100.100.100.130/boishakhitv/index.fmp4.m3u8
+http://172.20.2.5:8082/BOISHAKI-TV/index.m3u8?token=2e21ee4f6a279181f7722768ebcafbb54d28c596-01c1b485de7fcf839ff057a876774b06-1736090155-1736079355
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/100px-Asian_TV_Logo.svg.png" group-title="BANGLA",ASIAN TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8?nimblesessionid=676706395
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLA",MAASRANGA TV
-http://172.20.2.5:8082/MASRANGA-TV/index.m3u8?token=82e0cc3013dd9a6724b213932c44387981427369-da118d31057543900134e1abc781ede4-1735952641-1735941841
+http://172.20.2.5:8082/MASRANGA-TV/index.m3u8?token=1ee1712b4ae905802c0dfcb921cefcfd34e116e4-3bd3f72c616bb887203e1513733e6083-1736090096-1736079296
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Mytv_Bangladesh_Logo.png/260px-Mytv_Bangladesh_Logo.png" group-title="BANGLA",MY TV
 http://103.77.218.230/mytvbangla/index.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/DeshTV2022Logo.svg/220px-DeshTV2022Logo.svg.png" group-title="BANGLA",DESH TV
