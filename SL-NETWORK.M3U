@@ -50,7 +50,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLA",MAASRANGA TV
 http://172.20.2.5:8082/MASRANGA-TV/index.m3u8?token=82e0cc3013dd9a6724b213932c44387981427369-da118d31057543900134e1abc781ede4-1735952641-1735941841
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Mytv_Bangladesh_Logo.png/260px-Mytv_Bangladesh_Logo.png" group-title="BANGLA",MY TV
-https://mytvbangla.com/0.m3u8
+http://103.77.218.230/mytvbangla/index.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/DeshTV2022Logo.svg/220px-DeshTV2022Logo.svg.png" group-title="BANGLA",DESH TV
 http://100.100.100.12/deshtv/video.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/200px-Ekushey_Television_Logo.svg.png" group-title="BANGLA",EKUSHEY TV
