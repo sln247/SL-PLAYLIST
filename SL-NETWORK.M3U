@@ -233,8 +233,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12481&deviceMac=00:1A:79:6C:2
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-chno="9" group-title="ENGLISH",AXN(BD)
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
-#EXTINF:-1 tvg-chno="10" group-title="ENGLISH",HBO(BD)
-http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-chno="10" group-title="ENGLISH",HBO
+http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=12481&deviceMac=00:1A:79:6C:28:A1
 #EXTINF:-1 tvg-chno="11" group-title="ENGLISH",DW English
 http://100.100.100.12/dw/video.m3u8
 #EXTINF:-1 tvg-chno="12" group-title="ENGLISH",NDTV 24x7
