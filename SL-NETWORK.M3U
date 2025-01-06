@@ -117,7 +117,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://ythls.armelin.one/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://i.ibb.co/tLZqWzj/Banglajago-TV-logo-29.webp" group-title="KOLKATA",BANGLA JAGO
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-#EXTINF:-1 tvg-chno="1" group-title="HINDI",Sony max
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/237px-Sony_MAX.svg.png" group-title="HINDI",Sony max
 http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/150px-Sony_Max_new.png" group-title="HINDI",SONY MAX HD
 http://tv.cloudcdn.me/live.ts?channelId=185&uid=2496&deviceMac=00:1A:79:A8:9C:32
@@ -131,19 +131,19 @@ http://tv.cloudcdn.me/live.ts?channelId=193&uid=2496&deviceMac=00:1A:79:A8:9C:32
 https://edge2.laotv.la/live/StarMovie/index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://i.ibb.co.com/PZ9dF17/Star-Gold-2-svg.png" group-title="HINDI",STAR GOLD 2
 http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=12481&deviceMac=00:1A:79:6C:28:A1
-#EXTINF:-1 tvg-chno="8" group-title="HINDI",STAR PLUS HD
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://i.ibb.co.com/9pMGFHB/597049-h.webp" group-title="HINDI",STAR PLUS HD
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-chno="9" group-title="HINDI",Star Bharat
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://i.ibb.co.com/gwbTzTj/maxresdefault-14.jpg" group-title="HINDI",Star Bharat
 http://tv.cloudcdn.me/live.ts?channelId=195&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/B4U_Movies_logo.png" group-title="HINDI",B4U Movies
 https://cdn2.pishow.tv/live/156/master.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://i.ibb.co.com/Mkg0gSK/Colors-tv2017.png" group-title="HINDI",COLORS HD
 http://tv.cloudcdn.me/live.ts?channelId=160&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-chno="12" group-title="HINDI",COLORS CINEPLEX HD
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Colors_Cineplex_Black.png/220px-Colors_Cineplex_Black.png" group-title="HINDI",COLORS CINEPLEX HD
 http://tv.cloudcdn.me/live.ts?channelId=470&uid=6469&deviceMac=00:1A:79:B7:2F:EA
-#EXTINF:-1 tvg-chno="13" group-title="HINDI",Zee cinema
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="HINDI",ZEE CINEMA
 http://10.77.218.14:8082/Zee_Chinema/index.fmp4.m3u8
-#EXTINF:-1 tvg-chno="14" group-title="HINDI",Bollywood HD (BD)
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://i.ibb.co.com/WfsrQN6/153019327601-bollywood-hd-new.jpg" group-title="HINDI",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-chno="15" group-title="HINDI",Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
