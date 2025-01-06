@@ -227,8 +227,8 @@ https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/i
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="6" group-title="ENGLISH",Xlpore English(BD)
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-chno="7" group-title="ENGLISH",Nasa TV(BD3)
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.ibb.co.com/mFQQ49q/SMSHD.webp" group-title="ENGLISH",STAR MOVIES SELECT
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12481&deviceMac=00:1A:79:6C:28:A1
 #EXTINF:-1 tvg-chno="8" group-title="ENGLISH",BBC World(BD)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-chno="9" group-title="ENGLISH",AXN(BD)
