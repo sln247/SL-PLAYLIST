@@ -9,7 +9,7 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://i.ibb.co/k92CXdW/Iqra-Logo-PNG-1.jpg" group-title="ISLAMIC",IQRA BANGLA
 http://208.86.19.13:81/507.stream/index.m3u8
-#EXTINF:-1 tvg-chno="6" group-title="ISLAMIC",MAKKAH LIVE
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://i.ibb.co.com/ZJpttTX/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="ISLAMIC",MAKKAH LIVE
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://i.ibb.co.com/LYDkf1Z/Kids-Creation-Logo-1.png" group-title="ISLAMIC",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8?v=1
