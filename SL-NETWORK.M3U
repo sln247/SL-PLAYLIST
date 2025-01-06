@@ -137,6 +137,8 @@ http://
 http://195.26.87.217/live.ts?channelId=187&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://i.ibb.co.com/f8K4xfR/star-gold-logo-D1-A2937-F35-seeklogo-com.png" group-title="HINDI",Star Gold HD
 https://edge2.laotv.la/live/StarMovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZ9dF17/Star-Gold-2-svg.png" group-title="HINDI",STAR GOLD 2
+http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=12481&deviceMac=00:1A:79:6C:28:A1
 #EXTINF:-1 tvg-chno="9" group-title="HINDI",STAR PLUS HD
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-chno="10" group-title="HINDI",Star India
@@ -159,8 +161,8 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-chno="19" group-title="HINDI",Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 tvg-chno="20" group-title="HINDI",Colors tv
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/push.m3u8?id=106
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://i.ibb.co.com/Mkg0gSK/Colors-tv2017.png" group-title="HINDI",COLORS HD
+http://tv.cloudcdn.me/live.ts?channelId=160&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-chno="21" group-title="HINDI",DUNKI MOVIE
 https://worker-wild-lab-a48a.assadikb.workers.dev/0:/Dunki.2023.720p.Hindi.WEB-DL%20ottbangla.shop.mkv
 #EXTINF:-1 tvg-chno="22" group-title="HINDI",BOLLYWOOD PRIME
