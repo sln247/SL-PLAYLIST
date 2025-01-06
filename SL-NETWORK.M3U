@@ -268,11 +268,11 @@ https://mhdtvweb.com/jc/stream.m3u8?chunks=Vkh3ekJWRi9LRlV0U0Z0RFdXSmJCMVZVTHhJS
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="KID'S",KID'S CREATION
 http://100.100.100.12/kidscreation/video.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS",GAZI TV
-http://172.20.2.5:8082/GTV/index.m3u8?token=63b8dc01a2b3425e70317ceae1d029eba441d84d-61f329ddcf593fef1f273eb133ad3e36-1735893146-1735882346
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=l4MnK_eXuKwzvAkU7tA83A&expires=1736330292&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 1
 http://103.77.218.230/tsports_hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 2
-http://172.20.2.5:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=0fcb5673def4ec07bd149f9b5978e387241fdade-e1be450b72c2d738a615b23b6dc39262-1735952363-1735941563
+http://103.77.218.230/Sports-1HD/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 3
 http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8?token=c0360c75d92d9fcc0d0a14288a17a359a1bfc986-a7adcc6f83decdc8fa397595f08fc0fd-1735893263-1735882463
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 4
