@@ -132,7 +132,7 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/150px-Sony_Pix_new.png" group-title="HINDI",SONY PIX HD
 http://
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/SAB_TV.jpg/220px-SAB_TV.jpg" group-title="HINDI",SONY SAB
-http://
+http://tv.cloudcdn.me/live.ts?channelId=260&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-chno="6" group-title="HINDI",SONY WAH
 http://195.26.87.217/live.ts?channelId=187&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://i.ibb.co.com/f8K4xfR/star-gold-logo-D1-A2937-F35-seeklogo-com.png" group-title="HINDI",Star Gold HD
@@ -183,8 +183,8 @@ https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/i
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 #EXTINF:-1 tvg-chno="30" group-title="HINDI",SHEEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-chno="31" group-title="HINDI",Star Bharat HD(BD)
-http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-chno="31" group-title="HINDI",Star Bharat
+http://tv.cloudcdn.me/live.ts?channelId=195&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-chno="32" group-title="HINDI",Star Bharat(BD)
 http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-chno="33" group-title="HINDI",Zee News
@@ -250,7 +250,7 @@ https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF:-1 tvg-chno="16" group-title="ENGLISH",Discovery Turbo
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 #EXTINF:-1 tvg-chno="17" group-title="ENGLISH",NATIONAL GEOGRAPHIC
-http://100.100.100.14/nationalgeographic/video.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=177&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 tvg-chno="18" group-title="ENGLISH",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-chno="19" group-title="ENGLISH",Al Jazeera English
