@@ -223,8 +223,8 @@ http://100.100.100.14/discovery/video.m3u8
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="ENGLISH",Discovery Turbo
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
-#EXTINF:-1 tvg-chno="5" group-title="ENGLISH",Travel XP 
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png" group-title="ENGLISH",STAR MOVIES
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=12481&deviceMac=00:1A:79:6C:28:A1
 #EXTINF:-1 tvg-chno="6" group-title="ENGLISH",Xlpore English(BD)
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://i.ibb.co.com/mFQQ49q/SMSHD.webp" group-title="ENGLISH",STAR MOVIES SELECT
