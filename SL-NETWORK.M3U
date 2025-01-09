@@ -238,7 +238,7 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/150px-A_Sports_Logo.png" group-title="SPORTS",A SPORTS
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="12" group-title="SPORTS",TEN -5
-http://100.100.100.11/ten5/video.m3u8
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="13" group-title="SPORTS",Sony LiV
 http://103.89.248.30:8082/1LIVE/index.fmp4.m3u8?token=7030e8c27912c916f59f5481e4a310f9540d2c4a-17597b28dda900e299e33a0c563a9293-1720993784-1720982984
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://i.ibb.co/xDCybQn/Sportklub-3-HD.png" group-title="SPORTS",Willow HD
