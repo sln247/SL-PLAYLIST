@@ -22,7 +22,7 @@ http://103.77.218.230/Somy-TV/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" group-title="BANGLA",INDEPENDENT TV
 http://172.20.2.5:8082/INDPENDENT-TV/index.m3u8?token=ff4fdb4d024c471679725dba325254aafc8e0149-c399dc35f7a26f2bb419ff87370ea507-1736396960-1736386160
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="BANGLA",JAMUNA TELEVISION
-http://172.20.2.5:8082/JAMUNA-TV/index.m3u8?token=a0f70b33575281181f9e60a5907c581d134204c7-2bd19118970e78390e6e354d3173aa79-1736089851-1736079051
+http://172.20.2.5:8082/JAMUNA-TV/index.m3u8?token=3b8d9455e9a42bdb9cd51f8b178366f48084784d-b4d4a0992bf9629deb48637f5a2ea061-1736397094-1736386294
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" group-title="BANGLA",EKATTOR TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8?nimblesessionid=680197470
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/250px-DBC_News_Logo.svg.png" group-title="BANGLA",DBC NEWS
