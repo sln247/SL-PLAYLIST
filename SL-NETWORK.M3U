@@ -236,7 +236,7 @@ http://10.77.218.14:8082/sony_sport_3/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://i.ibb.co.com/qpH6Drf/Be-IN-Sports-1-2014.png" group-title="SPORTS",BEIN SPORTS 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/150px-A_Sports_Logo.png" group-title="SPORTS",A SPORTS
-http://100.100.100.14/asports/video.m3u8
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="12" group-title="SPORTS",TEN -5
 http://100.100.100.11/ten5/video.m3u8
 #EXTINF:-1 tvg-chno="13" group-title="SPORTS",Sony LiV
