@@ -222,7 +222,7 @@ http://103.77.218.230/tsports_hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 2
 http://103.77.218.230/Sports-1HD/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 3
-http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8?token=c0360c75d92d9fcc0d0a14288a17a359a1bfc986-a7adcc6f83decdc8fa397595f08fc0fd-1735893263-1735882463
+http://172.20.2.5:8082/T-SPORTS/index.m3u8?token=2bb07ac219d6a12e2903270e8658188e3f3fb592-cdbc7f2c82ed1e8745570337dd041dc3-1736395969-1736385169
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 4
 http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 5
