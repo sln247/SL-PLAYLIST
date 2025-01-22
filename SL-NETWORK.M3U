@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ibb.co/rp13jMs/Peace-TV-Bangla-logo-2015.webp" group-title="ISLAMIC",Peace Tv Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/playlist.m3u8?sid=lbg0t782W0ql_9HzdZnFBw
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=ngRW76T-k0KQ5EghaNXvEQ
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.ibb.co/wQBdPZJ/unnamed.png" group-title="ISLAMIC",Peace TV ENG
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://i.ibb.co/cQv5KQc/islam-channel001-1.jpg" group-title="ISLAMIC",ISLAM CHANNEL BANGLA
