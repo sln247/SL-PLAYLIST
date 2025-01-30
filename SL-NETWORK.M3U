@@ -216,11 +216,11 @@ https://mhdtvweb.com/jc/stream.m3u8?chunks=Vkh3ekJWRi9LRlV0U0Z0RFdXSmJCMVZVTHhJS
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="KID'S",KID'S CREATION
 http://100.100.100.12/kidscreation/video.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS",GAZI TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=l4MnK_eXuKwzvAkU7tA83A&expires=1736330292&user=811838a63b224e85b02b925b31d0fece
+http://103.77.218.230/GTV/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 1
 http://103.77.218.230/tsports_hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 2
-http://103.77.218.230/Sports-1HD/index.m3u8
+http://103.77.218.230/tsports_hd/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 3
 http://172.20.2.5:8082/T-SPORTS/index.m3u8?token=2bb07ac219d6a12e2903270e8658188e3f3fb592-cdbc7f2c82ed1e8745570337dd041dc3-1736395969-1736385169
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 4
