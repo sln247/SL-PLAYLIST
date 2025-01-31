@@ -222,7 +222,7 @@ http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8?token=ee2c6589c5c612e4205b50206b1b
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 2
 http://10.77.218.230/tsports_hd/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 3
-http://172.20.2.5:8082/T-SPORTS/index.m3u8?token=2bb07ac219d6a12e2903270e8658188e3f3fb592-cdbc7f2c82ed1e8745570337dd041dc3-1736395969-1736385169
+https://live.himel-op.top/novasports/index.m3u8?id=TSports
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 4
 http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 5
