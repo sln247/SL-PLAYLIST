@@ -215,7 +215,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 https://mhdtvweb.com/jc/stream.m3u8?chunks=Vkh3ekJWRi9LRlV0U0Z0RFdXSmJCMVZVTHhJSEIzRkVQMDVUWER3bERFTlNDMnRBQWxwZUYzcGVLMGRTTUFCYlZTVkNURlY2UEVabVdsOWRWQUpZY0ZSalZGNVRZVnd0TlFFclJHcFlKRVJUZmk4TlB3WkFSREphQ2x3SFV3QndVRElIWGdKaEN5OWlBeXhGYVR0dldWYzFDRjUrWmdJRWZITjFVVlIwRFV4bFlBb0JmWE1rRkMxcE9FSmljalJCWVcwQ1Z5dE9la1VyZEZOQ0sxRnNEUT09
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="KID'S",KID'S CREATION
 http://100.100.100.12/kidscreation/video.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS",GAZI TV
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/220px-Logo_of_GTV_%28Bangladesh%29.svg.png" group-title="SPORTS",GAZI TV
 http://103.77.218.230/GTV/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 1
 http://103.77.218.230/tsports_hd/tracks-v1a1/mono.ts.m3u8
