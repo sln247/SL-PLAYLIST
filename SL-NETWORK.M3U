@@ -217,13 +217,13 @@ https://mhdtvweb.com/jc/stream.m3u8?chunks=Vkh3ekJWRi9LRlV0U0Z0RFdXSmJCMVZVTHhJS
 http://100.100.100.12/kidscreation/video.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS",GAZI TV
 http://103.77.218.230/GTV/index.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 1
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 1
 http://103.77.218.230/tsports_hd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 2
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 2
 http://103.77.218.230/tsports_hd/index.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 3
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 3
 http://172.20.2.5:8082/T-SPORTS/index.m3u8?token=2bb07ac219d6a12e2903270e8658188e3f3fb592-cdbc7f2c82ed1e8745570337dd041dc3-1736395969-1736385169
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 4
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 4
 http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 5
 http://172.20.2.5:8082/GTV/tracks-v1a1/mono.m3u8?token=cd791b80f0b8ef04aa796311fe0ffd4f34d96950-2b366a6f84680c9c6808283448dc87d1-1735952412-1735941612
