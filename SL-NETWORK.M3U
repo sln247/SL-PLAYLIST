@@ -218,7 +218,11 @@ http://100.100.100.12/kidscreation/video.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/220px-Logo_of_GTV_%28Bangladesh%29.svg.png" group-title="SPORTS",GAZI TV
 http://10.77.218.230/GTV/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 1
+<<<<<<< HEAD
 http://100.100.100.14/tsports/tracks-v1/index.fmp4.m3u8
+=======
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+>>>>>>> a2b3a5c7534ba9c21bd79b6e5fe71dbe5b0d73a5
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 2
 http://100.100.100.14/tsportshd/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 3
