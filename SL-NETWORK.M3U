@@ -218,11 +218,11 @@ http://100.100.100.12/kidscreation/video.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/220px-Logo_of_GTV_%28Bangladesh%29.svg.png" group-title="SPORTS",GAZI TV
 http://10.77.218.230/GTV/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 1
-http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8?token=ee2c6589c5c612e4205b50206b1be4300e26d418-fef5439f26009a0873b9fbcc0db2f6c9-1738328287-1738317487
+http://100.100.100.14/tsports/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 2
-http://10.77.218.230/tsports_hd/index.m3u8
+http://100.100.100.14/tsportshd/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 3
-https://live.himel-op.top/novasports/index.m3u8?id=TSports
+http://100.100.100.14/tsportshd/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 4
 http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 5
