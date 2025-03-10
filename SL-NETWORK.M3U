@@ -26,7 +26,7 @@ http://172.20.2.5:8082/JAMUNA-TV/index.m3u8?token=3b8d9455e9a42bdb9cd51f8b178366
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" group-title="BANGLA",EKATTOR TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjAwOjAyIFBNJmhhc2hfdmFsdWU9WVBqZTFjT0VPdkdudW9NMEtpT2ROQT09JnZhbGlkbWludXRlcz00MA==
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/250px-DBC_News_Logo.svg.png" group-title="BANGLA",DBC NEWS
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjU0OjU2IFBNJmhhc2hfdmFsdWU9REU2TU9UQUZZcGZjQmFSZ0FOUnZUQT09JnZhbGlkbWludXRlcz00MA==
+http://100.100.100.22/dbcnews/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/200px-Channel24logo.svg.png" group-title="BANGLA",CHANNEL 24
 http://100.100.100.22/channel24/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="BANGLA",NEWS 24
@@ -66,7 +66,7 @@ http://100.100.100.12/nagorik/video.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BANGLA",GAZI TV
 http://10.77.218.14:8082/gazi_tv/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="BANGLA",DEEPTO TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=3574168
+http://100.100.100.22/deeptotv/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BANGLA",DURONTO TV
 http://100.100.100.130/deepto/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/180px-BIJOY_TV_Logo_BD.png" group-title="BANGLA",BIJOY TV
