@@ -20,7 +20,7 @@ http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BANGLA",SOMOY TV
 http://100.100.100.22/somoytv/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" group-title="BANGLA",INDEPENDENT TV
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245916
+http://100.100.100.22/independent/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="BANGLA",JAMUNA TELEVISION
 https://its-ferdos-alom.top/iptv/Op/live.php?id=245917
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" group-title="BANGLA",EKATTOR TV
@@ -228,7 +228,7 @@ http://100.100.100.14/tsportsbengal/video.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 5
 http://100.100.100.14/starsports1hd/video.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/6c/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8_%E0%A7%A7_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="SPORTS",STAR SPORTS 1
-http://172.20.2.5:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8?token=e6b277361810b8de632ef8a0450264bfe06d52e5-be9ff4c73bb0fdf7fca74f9dacadc84f-1735952445-1735941645
+http://100.100.100.14/sports18/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="SPORTS",DUBAI SPORTS
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/240px-BeIN_Sports_logo_%282017%29.png" group-title="SPORTS",BEIN SPORTS
