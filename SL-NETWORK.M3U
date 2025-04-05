@@ -40,7 +40,7 @@ http://100.100.100.22/ntv/video.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png" group-title="BANGLA",CHANNEL i
 http://100.100.100.22/channeli/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/240px-Rtv_bangladesh.svg.png" group-title="BANGLA",RTV
-http://172.20.2.5:8082/RTV/index.m3u8?token=70fce7cf1e2a48b507519a7b3ff28e7ccd44434a-bfed84acdf638901a88c59ba5a0c0c64-1736397296-1736386496
+http://100.100.100.26/rtv/index.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/120px-Banglavision.svg.png" group-title="BANGLA",BANGLAVISION
 http://100.100.100.22/banglavision/video.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/1f/%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A7%80_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/150px-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A7%80_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BANGLA",BOISHAKHI TV
@@ -62,9 +62,9 @@ http://100.100.100.22/mohonatv/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/200px-Channel9_bd.svg.png" group-title="BANGLA",CHANNEL 9
 http://100.100.100.22/channel9/video.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/150px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="BANGLA",NAGORIK TV
-http://100.100.100.12/nagorik/video.m3u8
+http://100.100.100.22/nagorik/index.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BANGLA",GAZI TV
-http://10.77.218.14:8082/gazi_tv/index.fmp4.m3u8
+http://100.100.100.26/gtv/index.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="BANGLA",DEEPTO TV
 http://100.100.100.22/deeptotv/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BANGLA",DURONTO TV
