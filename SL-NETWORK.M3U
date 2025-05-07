@@ -126,17 +126,17 @@ http://tv.cloudcdn.me/live.ts?channelId=260&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/800px-SET_India_logo.svg.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION HD
 http://tv.cloudcdn.me/live.ts?channelId=193&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://i.ibb.co.com/f8K4xfR/star-gold-logo-D1-A2937-F35-seeklogo-com.png" group-title="HINDI",Star Gold HD
-https://edge2.laotv.la/live/StarMovie/index.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.ibb.co.com/PZ9dF17/Star-Gold-2-svg.png" group-title="HINDI",STAR GOLD 2
-http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=12481&deviceMac=00:1A:79:6C:28:A1
+http://100.100.100.30/stargoldhd/index.fmp4.m3u8?token=6eae5167e37a7aa3506c02fdff2a7d17cad990c2-be2fb5dc19a346f1a43f7462a7f8bec8-1746648998-1746638198
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/250px-Star_Movies_2023.svg.png" group-title="HINDI",STAR MOVIES
+http://100.100.100.30/starmovies/index.fmp4.m3u8?token=26306dd8aa8ba765ca7016def997ccc47ec0e5e0-e23408af7c22263fcf7d6d216ca34f72-1746649094-1746638294
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://i.ibb.co.com/9pMGFHB/597049-h.webp" group-title="HINDI",STAR PLUS HD
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://i.ibb.co.com/gwbTzTj/maxresdefault-14.jpg" group-title="HINDI",Star Bharat
-http://tv.cloudcdn.me/live.ts?channelId=195&uid=2496&deviceMac=00:1A:79:A8:9C:32
+http://100.100.100.30/starplus/index.fmp4.m3u8?token=21becd5dfb4f305aeaa5d5948accedf977fdd6a1-8293da9d89e1cb944dfec7dce4ae7182-1746649039-1746638239
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/B4U_Movies_logo.png" group-title="HINDI",B4U Movies
 http://100.100.100.38/b4u-movies-vip/index.fmp4.m3u8?token=fc4f39317b4b117c92e862f4c1a134bb4a5d4760-56f6d694e971ebdbb90d654f527287c1-1746648895-1746638095
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://i.ibb.co.com/Mkg0gSK/Colors-tv2017.png" group-title="HINDI",COLORS HD
-http://tv.cloudcdn.me/live.ts?channelId=160&uid=2496&deviceMac=00:1A:79:A8:9C:32
+http://100.100.100.30/colorshd/index.fmp4.m3u8?token=fab9f5559091298ff5b5fb457d3576e44ef073c9-11ce41ebaed01f9813ed88bde278a394-1746649081-1746638281
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Colors_Cineplex_Black.png/220px-Colors_Cineplex_Black.png" group-title="HINDI",COLORS CINEPLEX HD
 http://tv.cloudcdn.me/live.ts?channelId=470&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="HINDI",ZEE CINEMA
