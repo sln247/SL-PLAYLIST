@@ -92,19 +92,19 @@ http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=13433&deviceMac=00:1A:79:00:97
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/220px-Star_Jalsha_logo_2023.png" group-title="KOLKATA" audio-track="http://100.100.100.14/starjalsha/video.m3u8",STAR JALSHA
 http://100.100.100.10/hls/tv0.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/85/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="KOLKATA",JALSHA MOVIES
-http://100.100.100.13/jalshamovies/index.fmp4.m3u8
+http://100.100.100.14/jalshamovies/index.fmp4.m3u8?token=06181af9c0d1cd88b81f1aa9f3c1306d748920d7-8b8605e8d5ccc1d1ae45aece1f51ae30-1746649933-1746639133
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/200px-Zee_Bangla_logo.png" group-title="KOLKATA",Zee Bangla
-http://100.100.100.26/zeebangla/index.fmp4.m3u8?token=626a4f96039719094dbfea582263ec9e467b3cc1-a16071ef812efc33937f5fffd909f2cb-1743622308-1743611508
+http://100.100.100.14/zeebanglahd/index.fmp4.m3u8?token=fe7492db9459d60ebc75900557658081b7150dff-256c5012e6f61374e60f6a5afb36bde5-1746649932-1746639132
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/220px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="KOLKATA",Zee Bangla Cinema
-http://10.77.218.14:8082/zee_bangla/index.fmp4.m3u8
+http://100.100.100.38/zee-bangla-cinema-vip/index.fmp4.m3u8?token=12ec956482fc1b3cb21b2f3886e0dec6b5c3651c-63e0fd75f6152e7b1e857d579ef9e956-1746649938-1746639138
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/170px-Colors_Bangla.png" group-title="KOLKATA" audio-track="https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",COLORS BANGLA
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/push.m3u8?id=11946
+http://100.100.100.30/colorsbangla/index.fmp4.m3u8?token=7b59944d11038d00a01a327bf9999b3089fe6a75-0dda8e8e74a4553c18916ab15a324eab-1746649935-1746639135
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/c/c9/%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%A7%E0%A7%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg/220px-%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%A7%E0%A7%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="KOLKATA",ENTERR 10 BANGLA
-http://100.100.100.30/enterr10bangla/index.fmp4.m3u8
+http://100.100.100.30/enterr10bangla/index.fmp4.m3u8?token=294809ee450f9934f314fb587f03ccb59163aa36-424aec464a488330f626ffe1ea64a91a-1746649935-1746639135
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sun_Bangla.png/170px-Sun_Bangla.png" group-title="KOLKATA",SUN BANGLA
 https://its-ferdos-alom.top/iptv/Op/live.php?id=245906
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/150px-Sony_Aath_new.png" group-title="KOLKATA",SONY AATH
-http://100.100.100.200/sonyatth/index.fmp4.m3u8
+http://100.100.100.38/sony-aat-vip/index.fmp4.m3u8?token=e743dde983a18cc047392990c406d735025c60cb-204b194b4785014ce8f4a3a0291049be-1746649937-1746639137
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://i.ibb.co/rdwnpDN/Sangeet-Bangla-logo-2021.webp" group-title="KOLKATA",SANGEET BANGLA
 http://100.100.100.12/sangeetbangla/video.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://i.ibb.co/pbBBtRN/Shree-Bangla-logo-2018.webp" group-title="KOLKATA",Shree Bangla
