@@ -14,7 +14,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://i.ibb.co.com/LYDkf1Z/Kids-Creation-Logo-1.png" group-title="ISLAMIC",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8?v=1
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/220px-Bangladesh_Television_Logo.svg.png" group-title="BANGLA",BTV 
-http://100.100.100.22/btv/index.fmp4.m3u8
+http://100.100.100.10/hls/tv7.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/220px-Sangsad_Television_Emblem.svg.png" group-title="BANGLA",SANGSAD TV
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BANGLA",SOMOY TV
@@ -34,13 +34,13 @@ http://100.100.100.22/news24/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/d/d2/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/100px-%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BANGLA",ATN NEWS BANGLA
 http://100.100.100.22/atnnews/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/180px-ATN_Bangla.svg.png" group-title="BANGLA",ATN BANGLA
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245909
+http://100.100.100.22/atnbangla/index.fmp4.m3u8?token=03fc44c732b0fa036a3965b7d3c314cf39ae80e7-4dbc485c87c3bde0f3086b3e364d4445-1746630597-1746619797
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/0/0c/%E0%A6%8F%E0%A6%A8%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%29.svg/150px-%E0%A6%8F%E0%A6%A8%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%29.svg.png" group-title="BANGLA",NTV HD
 http://100.100.100.22/ntv/video.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png" group-title="BANGLA",CHANNEL i
 http://100.100.100.22/channeli/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/240px-Rtv_bangladesh.svg.png" group-title="BANGLA",RTV
-http://100.100.100.26/rtv/index.m3u8
+http://100.100.100.22/rtv/index.fmp4.m3u8?token=fa1a8a5775ca7a8792c98df6639db61f61af58bf-fd1c10ffb158d5043dd2055f2b096fbf-1746630893-1746620093
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/120px-Banglavision.svg.png" group-title="BANGLA",BANGLAVISION
 http://100.100.100.22/banglavision/video.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/1f/%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A7%80_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/150px-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A7%80_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BANGLA",BOISHAKHI TV
@@ -172,9 +172,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/p
 #EXTINF:-1 tvg-chno="27" group-title="HINDI",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="ENGLISH",Animal Planet HD
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+http://100.100.100.38/animal-planet-hd/index.fmp4.m3u8?token=96deee3775c873c7119b247f4da9f30414dc1452-04cf4a184b95e153ca438e767481252b-1746631339-1746620539
 #EXTINF:-1 tvg-chno="2" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Discovery_logo_2021.svg/220px-Discovery_logo_2021.svg.png" group-title="ENGLISH",DISCOVERY HD
-http://100.100.100.14/discovery/video.m3u8
+http://100.100.100.38/discovery-hd/index.fmp4.m3u8?token=bc34122e97d7dc0f23eaf06b686434d578d8a22d-217551a4c7a0b79e15c62cda86348b1e-1746630973-1746620173
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png" group-title="ENGLISH",STAR MOVIES HD
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=12481&deviceMac=00:1A:79:6C:28:A1
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://i.ibb.co.com/mFQQ49q/SMSHD.webp" group-title="ENGLISH",STAR MOVIES SELECT
@@ -189,8 +189,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-chno="9" group-title="ENGLISH",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="10" group-title="ENGLISH",Discovery HD [Multi Audio]
-https://dplus.gammacdn.workers.dev/videos/95.m3u8
+#EXTINF:-1 tvg-chno="10" group-title="ENGLISH",ID HD
+http://100.100.100.38/investigation-discovery-hd/index.fmp4.m3u8?token=5c6eef3d02cac6ff29a355820e27c2c806c556d2-c9ddb14d2a22e6efd1d60c5f0d212c36-1746631610-1746620810
 #EXTINF:-1 tvg-chno="11" group-title="ENGLISH",Discovery Science
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF:-1 tvg-chno="12" group-title="ENGLISH",Discovery Turbo
