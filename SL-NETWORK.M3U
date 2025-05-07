@@ -117,6 +117,12 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://ythls.armelin.one/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://i.ibb.co/tLZqWzj/Banglajago-TV-logo-29.webp" group-title="KOLKATA",BANGLA JAGO
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/250px-Aljazeera_eng.svg.png" group-title="NEWS",ALJAZEERA
+http://100.100.100.30/aljazeera/index.fmp4.m3u8?token=525f6da0bbd3812a929671743fb30c78bca53277-2a9fa6fc53627a2f7c95ef9f762a29ec-1746650221-1746639421
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/250px-CNN_Logo_%282014%29.svg.png" group-title="NEWS",CNN
+http://100.100.100.38/cnn/index.fmp4.m3u8?token=7f8d261df092b7de27919ed5c80cf15faece91b6-c0d66afb8fdbb170c99c361a794b9d9c-1746650460-1746639660
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/250px-BBC_Logo_2021.svg.png" group-title="NEWS",BBC
+http://100.100.100.42/bbcnews/index.fmp4.m3u8?token=aaf589f532dbc181f77c273e1d166bccb5d8cab9-395556eb32d02285304068e9ca460ce8-1746650461-1746639661
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/150px-Sony_Max_new.png" group-title="HINDI",SONY MAX HD
 http://100.100.100.38/sony-max-hd-vip/index.fmp4.m3u8?token=e6501ca6db1ec7b0a73dacb98e2be7c71869c968-eb326f0c15f2e0ff1efc023203f83684-1746648783-1746637983
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/150px-Sony_Pix_new.png" group-title="HINDI",SONY PIX HD
