@@ -48,7 +48,7 @@ http://100.100.100.22/boishakhitv/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/100px-Asian_TV_Logo.svg.png" group-title="BANGLA",ASIAN TV
 http://100.100.100.22/asian/video.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLA",MAASRANGA TV
-http://100.100.100.26/maasranga/video.m3u8
+http://100.100.100.22/maasranga/index.fmp4.m3u8?token=aa6b91bb8fb7bac4dff7acc6ca2a8aaf6bcedf2b-15918c4bb8ff0e0db4cf1e37b6248c1c-1746648510-1746637710
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Mytv_Bangladesh_Logo.png/260px-Mytv_Bangladesh_Logo.png" group-title="BANGLA",MY TV
 http://100.100.100.22/mytv/video.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/DeshTV2022Logo.svg/220px-DeshTV2022Logo.svg.png" group-title="BANGLA",DESH TV
@@ -80,7 +80,7 @@ http://100.100.100.22/moviebanglatv/video.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://i.ibb.co/Lk3thDH/moviebanglatv-logo.png" group-title="BANGLA",MOVIE BANGLA
 http://100.100.100.22/moviebanglatv/video.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/220px-Ekhon_Logo.png" group-title="BANGLA",EKHON TV
-http://100.100.100.22/ekhon/video.m3u8
+http://100.100.100.22/ekhontv/index.fmp4.m3u8?token=7589bafef03668deb76dedd0b165a37ee323931f-ee0a85d3fadc62783eaa477e7241e8b6-1746648568-1746637768
 #EXTINF:-1 tvg-chno="35" tvg-logo="https://i.ibb.co.com/G3HDc2W/rajdhani.jpg" group-title="BANGLA",RAJDHANI TV
 https://cdn.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Ananda_TV_Logo.png/220px-Ananda_TV_Logo.png" group-title="BANGLA",ANANDA TV
