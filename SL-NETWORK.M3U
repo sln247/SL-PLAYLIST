@@ -208,7 +208,7 @@ http://103.174.195.4:8000/play/a00r
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/210px-Nickelodeon_Sonic_logo.png" group-title="KID'S",NICKLODEON SONIC
 http://103.174.195.4:8000/play/a00s
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="KID'S",DISCOVERY KIDS
-https://dplus.gammacdn.workers.dev/videos/113.m3u8
+http://100.100.100.38/discovery-kids/index.fmp4.m3u8?token=80b87b4d64de2b4ee54e3f6d6cad030880b65cfe-e4877f5f5d16a86eebe1e05dfd6559c3-1746649377-1746638577
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="KID'S",NICK JR
 http://103.174.195.4:8000/play/a00u
 #EXTINF:-1 tvg-chno="5" group-title="KID'S",SPACETOON
@@ -217,8 +217,12 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 http://100.100.100.30/kidscreation/index.fmp4.m3u8?token=0fecc555b98e30f42b733a35b01214ad02096a25-59269fc7f074ba4251159895be829c55-1746649370-1746638570
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="KID'S",KID'S CREATION
 http://100.100.100.12/kidscreation/video.m3u8
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="KID'S",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="KID'S",CARTOON NETWORK
 http://100.100.100.38/cartoon-network-hd/index.fmp4.m3u8?token=e946a70394518b316303297cb5c9c157e3980670-d10336400c956b31846eba841b6258d9-1746649374-1746638574
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/POGO-logo.png/250px-POGO-logo.png" group-title="KID'S",PO GO
+http://100.100.100.38/pogo/index.fmp4.m3u8?token=918311ae72f88cb250abdca9c65ef06d6112b222-dfc218bb58415fe750e4fdad2060bd62-1746649376-1746638576
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/250px-Sony_Yay_new.png" group-title="KID'S",SONY YAY!
+http://100.100.100.38/sony-yay-vip/index.fmp4.m3u8?token=f3e51b6bc46a46d40598a94f4a2ddaf7e416700e-45fb65d3b46b24733d0e3014a2c7c6a0-1746649378-1746638578
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/220px-Logo_of_GTV_%28Bangladesh%29.svg.png" group-title="SPORTS",GAZI TV
 http://100.100.100.14/tsports_feed/video.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 1
