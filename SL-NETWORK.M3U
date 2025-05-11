@@ -232,15 +232,15 @@ http://100.100.100.38/sony-yay-vip/index.fmp4.m3u8?token=f3e51b6bc46a46d40598a94
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/220px-Logo_of_GTV_%28Bangladesh%29.svg.png" group-title="SPORTS",GAZI TV
 http://100.100.100.14/tsports_feed/video.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 1
-http://100.100.100.14/tsportshd/video.m3u8
+http://100.100.100.14/tsports-sn/index.fmp4.m3u8?token=9de9b57dfaa7daabd20ce602cbd5afccb9c69806-4b57a7be9fa269c8dfe375171f95f501-1746991197-1746980397
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 2
-http://100.100.100.14/tsports/video.m3u8
+http://100.100.100.14/tsports-sn/index.fmp4.m3u8?token=9de9b57dfaa7daabd20ce602cbd5afccb9c69806-4b57a7be9fa269c8dfe375171f95f501-1746991197-1746980397
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 3
-http://100.100.100.14/starsports1/video.m3u8
+http://100.100.100.14/tsports-sn/index.fmp4.m3u8?token=9de9b57dfaa7daabd20ce602cbd5afccb9c69806-4b57a7be9fa269c8dfe375171f95f501-1746991197-1746980397
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="SPORTS",T-SPORTS HD 4
-http://100.100.100.14/tsportsbengal/video.m3u8
+http://100.100.100.14/tsports-sn/index.fmp4.m3u8?token=9de9b57dfaa7daabd20ce602cbd5afccb9c69806-4b57a7be9fa269c8dfe375171f95f501-1746991197-1746980397
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="SPORTS",T-SPORTS HD 5
-http://100.100.100.14/starsports1hd/video.m3u8
+http://100.100.100.14/tsports-sn/index.fmp4.m3u8?token=9de9b57dfaa7daabd20ce602cbd5afccb9c69806-4b57a7be9fa269c8dfe375171f95f501-1746991197-1746980397
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/6c/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8_%E0%A7%A7_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="SPORTS",STAR SPORTS 1
 http://100.100.100.14/sports18/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="SPORTS",DUBAI SPORTS
